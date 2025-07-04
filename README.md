@@ -1,4 +1,4 @@
-[!OrevaApp x STON.fi Banner](https://imgur.com/DCaGj8T)
+![OrevaApp x STON.fi Banner](https://i.imgur.com/DCaGj8T.png)
 
 # OrevaApp – STON.fi Grant Integration (Placeholder Repo)
 
