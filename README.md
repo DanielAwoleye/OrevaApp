@@ -15,7 +15,7 @@ OrevaApp is currently under active development by our full-stack TON developer a
 
 ## 🧩 Project Overview
 
-OrevaApp is a gamified DeFi utility hub built on TON, designed to bring real use cases to Telegram users. With NFTs, governance, mining, memecoins, and gamified rewards—all under one interface—OrevaApp is creating a Web3 super-app optimized for user experience and community growth.
+OrevaApp is a gamified DeFi utility hub built on TON, designed to bring real use cases to Telegram users. With NFTs, governance, mining, memecoins, and gamified rewards all under one interface, OrevaApp is creating a Web3 super-app optimized for user experience and community growth.
 
 STON.fi will serve as our primary liquidity layer and trading infrastructure, even as we scale toward CEX partnerships and wider adoption.
 
