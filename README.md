@@ -10,7 +10,7 @@ OrevaApp is currently under active development by our full-stack TON developer a
 
 - Seamless integration of STON.fi swap and liquidity features inside OrevaApp  
 - Core trading pairs like OREVA/TON, OREVAPUP/TON, PENGU/TON, OREVAPUP/OREVA, PENGU/OREVA etc powered by STON.fi  
-- In-app trading, staking, and NFT utility with STON.fi as the foundation  
+- In-app trading powered by STON.fi, alongside native staking and NFT utility within OrevaApp  
 - Liquidity deployment and live trading aligned with our TGE (Token Generation Event)
 
 ## 🧩 Project Overview
