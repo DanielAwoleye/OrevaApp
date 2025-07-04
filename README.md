@@ -1,3 +1,5 @@
+[!OrevaApp x STON.fi Banner](https://imgur.com/DCaGj8T)
+
 # OrevaApp – STON.fi Grant Integration (Placeholder Repo)
 
 This repository serves as a placeholder for our STON.fi grant application.
